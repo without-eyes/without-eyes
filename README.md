@@ -1,16 +1,19 @@
-## Hi there 👋
-
 <!--
 **without-eyes/without-eyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm without eyes</h1>
+
+### Shortly about me
+I am a second-year student at Lviv Polytechnic National University
+
+### 💪 Skills
+C/C++, Java
+
+### 💻 Current Project
+I’m currently working on my pet-project: Data Structures & Algorithms & Math Methods Visualizer.
+
+### 📖 Studying
+Arduino, Qt, data structures, algorithms and math methods.
+
+### How to reach me
