@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm without eyes</h1>
 
 <h3>👁 Shortly about me</h3>
-<p>I am a second-year student at Lviv Polytechnic National University<br></p>
+<p>I am a second-year student in the Computational Intelligence of Smart Systems program at Lviv Polytechnic National University.<br></p>
 
 
 <h3>💪 Languages and Tools:</h3>
