@@ -26,7 +26,7 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on my pet-project: EasyLearner(Qt application)<br></p>
+<p>I’m currently working on my pet-project: EasyLearner(Qt application) and Castaway(C console game)<br></p>
 
 
 <h3>📖 Studying</h3>
