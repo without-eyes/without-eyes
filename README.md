@@ -20,7 +20,7 @@
 
 <h3>✍🏻 Also worked with:</h3>
 <ul>
-  <li>C/C++: Qt, Arduino, ncurses</li>
+  <li>C/C++: Qt, Arduino, ncurses, valgrind, criterion</li>
   <li>Java: JavaFX, Spring Boot</li>
   <li>Python: Tkinter, Ctypes</li>
 </ul>
