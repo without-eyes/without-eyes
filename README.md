@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm without eyes</h1>
 
 <h3>👁 Shortly about me</h3>
-<p>I am a second-year student in the Computational Intelligence of Smart Systems program at Lviv Polytechnic National University.<br></p>
+<p>I am a third-year student in the Computational Intelligence of Smart Systems(Computer Science) program at Lviv Polytechnic National University.<br></p>
 
 
 <h3>💪 Languages and Tools:</h3>
@@ -26,13 +26,13 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on my pet-project: EasyLearner(Qt application) and Castaway(C console game)<br></p>
+<p>I’m currently working on my pet-project Castaway(C console game)<br></p>
 
 
 <h3>📖 Studying</h3>
 <ul>
+  <li>Networking</li>
   <li>Arduino</li>
-  <li>Qt</li>
   <li>Data Structures</li>
   <li>Algorithms</li>
   <li>Math Methods</li>
