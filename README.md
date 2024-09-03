@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm without eyes</h1>
 
 <h3>👁 Shortly about me</h3>
-<p>I am a third-year student in the Computational Intelligence of Smart Systems(Computer Science) program at Lviv Polytechnic National University.<br></p>
+<p>I am Dmytro Kovalchuk, a third-year student in the Computational Intelligence of Smart Systems(Computer Science) program at Lviv Polytechnic National University.<br></p>
 
 
 <h3>💪 Languages and Tools:</h3>
@@ -34,8 +34,6 @@
   <li>Networking</li>
   <li>Arduino</li>
   <li>Data Structures</li>
-  <li>Algorithms</li>
-  <li>Math Methods</li>
 </ul>
 
 <h3>📡 My social media:</h3>
