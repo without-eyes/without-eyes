@@ -26,7 +26,7 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on my pet-project Castaway(C console game)<br></p>
+<p>I’m currently working on small projects<br></p>
 
 
 <h3>📖 Studying</h3>
