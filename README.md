@@ -26,7 +26,7 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on small projects that use networking in C<br></p>
+<p>I’m currently working on projects in C<br></p>
 
 
 <h3>📖 Studying</h3>
