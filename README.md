@@ -26,7 +26,7 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on WSFS(pinned project)<br></p>
+<p>I’m currently working on RAM-based file system WSFS.<br></p>
 
 
 <h3>📖 Studying</h3>
