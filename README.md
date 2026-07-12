@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm without eyes</h1>
 
 <h3>👁 Shortly about me</h3>
-<p>I am Dmytro Kovalchuk, a third-year student in the Computational Intelligence of Smart Systems(Computer Science) program at Lviv Polytechnic National University.<br></p>
+<p>I am Dmytro Kovalchuk, a Trainee Software Engineer at PLVision<br></p>
 
 
 <h3>💪 Languages and Tools:</h3>
@@ -26,14 +26,13 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>I’m currently working on university projects<br></p>
+<p>Private Godot-learning project<br></p>
 
 
 <h3>📖 Studying</h3>
 <ul>
-  <li>Networking</li>
-  <li>Arduino</li>
-  <li>Data Structures</li>
+  <li>SONiC/SAI</li>
+  <li>Gogot</li>
 </ul>
 
 <h3>📡 My social media:</h3>
