@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm without eyes</h1>
 
 <h3>👁 Shortly about me</h3>
-<p>I am Dmytro Kovalchuk, a Trainee Software Engineer at PLVision<br></p>
+<p>I am Dmytro Kovalchuk, a Junior Software Engineer at PLVision<br></p>
 
 <h3>✍🏻 Familiar with:</h3>
 <ul>
