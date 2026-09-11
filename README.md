@@ -15,7 +15,7 @@
 </ul>
 
 <h3>💻 Current Project</h3>
-<p>Private Godot-learning project<br></p>
+<p>No current projects<br></p>
 
 
 <h3>📖 Studying</h3>
